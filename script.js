@@ -106,7 +106,7 @@ const cities = document.querySelectorAll(".city");
 const btn = document.querySelector(".submit");
 
 // default city when the page loads
-let cityInput = "Patna";
+let cityInput = "Puducherry";
 
 // add click event to each city below search
 cities.forEach((city) => {
